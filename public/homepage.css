@@ -1,0 +1,43 @@
+body{
+    margin:0px;
+    background-color: rgb(100, 96, 96);
+    text-align: center;
+}
+.content{
+    width:70%;
+    margin:0% auto 0% auto;
+    position: relative;
+    top:80px;
+}
+.icon{
+    font-size: 50px;
+}
+.content h1{
+    font-weight: lighter;
+}
+.content p{
+    
+}
+.content hr{
+    border-bottom: none;
+    
+}
+.Register,.Login{
+    border:none;
+    padding:7px;
+    border-radius:2px;
+}
+.Login{
+    background-color:black;
+    color:white
+}
+.Register{
+    background-color: rgb(165, 139, 139);
+}
+.Register:hover{
+    background-color:rgb(185, 139, 139);
+
+}
+.Login:hover{
+    background-color:rgb(41, 39, 39);
+}
